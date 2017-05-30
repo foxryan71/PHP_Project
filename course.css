@@ -1,0 +1,39 @@
+select{
+
+ font-family: SchoolBell;
+    width: 95%;
+    font-size:22px;
+    margin-left:20px;
+    margin-top:20px;
+   color:#ffffff;
+    background: #3B653D;
+}
+table{
+
+    border:2px solid #ffffff;
+    margin:auto;
+    margin-top:25px;
+    width:50%;
+    text-align: center;
+
+}
+th{
+    border-bottom:2px solid #ffffff;
+    color:#ffffff;
+    font-size:22px;
+
+}
+td{
+    font-size: 16px;
+    color:#ffffff;
+    padding:5px;
+}
+input[type = 'button']{
+
+    background-color:#3B653D;
+    color:#ffffff;
+    border-radius:10px;
+    height:25px;
+    width:150px;
+}
+

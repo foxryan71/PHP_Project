@@ -1,0 +1,55 @@
+.menu
+{
+    font-family: SchoolBell;
+    background-color:#3B653D;
+    color:#ffffff;
+    margin:0;
+    border-bottom:2px solid #ffffff;
+    width:100%;
+
+}
+.menu a{
+
+    text-decoration: none;
+    color: #ffffff;
+
+}
+.menu a:hover{
+
+    font-size:18px;
+    font-weight:bold;
+}
+.menu li{
+    list-style-type: none;
+    display:inline-block;
+    padding-right:6.5%;
+    padding-left: 6.5%;
+    border-right:2px solid #ffffff;
+
+}
+html,body{
+margin:0;
+    background: #3B653D;
+    font-family: SchoolBell;
+
+
+}
+h1
+{
+    font-size:36px;
+    color:#ffffff;
+    text-indent: 5%;
+}
+
+.info_div{
+
+    height:50%;
+    width: 50%;
+    border:2px solid #ffffff;
+    border-radius:10px;
+    padding:15px;
+    color:#ffffff;
+   margin:auto;
+    font-size:18px;
+
+}
